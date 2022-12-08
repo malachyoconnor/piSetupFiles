@@ -1,0 +1,7 @@
+
+/* ijl20 mod for borders around terminal window (and others) */
+
+decoration {
+  border: 2px solid #ccffff;
+  background: #ccffff;
+}
