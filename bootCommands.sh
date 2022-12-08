@@ -1,2 +1,2 @@
-touch /home/pi/Desktop/bootCommandsWorking 
-/home/pi/Desktop/rssh1.sh
+touch /home/pi/piSetupFiles/bootCommandsWorking 
+/home/pi/piSetupFiles/rssh.sh

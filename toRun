@@ -9,4 +9,4 @@ CHANGE CRONTAB:
 	sudo crontab -e
 	      -> 
 		*/15 * * * * /home/pi/piSetupFiles/rssh.sh
-		56 16 * * * /sbin/shutdown -r now
+		30 05 * * * /sbin/shutdown -r now
