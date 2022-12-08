@@ -4,7 +4,7 @@ STARTING:
 
 ON BOOT:
 	/etc/xdg/lxsession/LXDE-pi/autostart
-		-> ADD  /home/pi/Desktop/bootCommands.sh
+		-> ADD  /home/pi/piSetupFiles/bootCommands.sh
 CHANGE CRONTAB:
 	sudo crontab -e
 	      -> 
